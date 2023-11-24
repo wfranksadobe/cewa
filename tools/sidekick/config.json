@@ -1,6 +1,6 @@
 {
-    "project": "SecurBank",
-    "host": "www.securbankdemo.com",
+    "project": "CEWA",
+    "host": "https://main--cewa--wfranksadobe.hlx.live/",
     "plugins": [
         {
             "id": "library",
