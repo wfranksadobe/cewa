@@ -225,13 +225,13 @@ main img {
   width: 100%;
 }
 
-.icon-securbank_logo {
+.icon-acc_logo {
   width: 128px;
   height: 48px;
 }
 
 @media (min-width: 900px) {
-  .icon-securbank_logo {
+  .icon-acc_logo {
     width: 100%;
     height: 100%;
   }
