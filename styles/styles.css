@@ -226,8 +226,7 @@ main img {
 }
 
 .icon-acc_logo {
-  width: 128px;
-  height: 48px;
+  max-width: 400px;
 }
 
 @media (min-width: 900px) {
